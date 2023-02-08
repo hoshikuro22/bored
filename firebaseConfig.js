@@ -2,7 +2,6 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
-import App from "next/app";
 
 const firebaseConfig = {
   apiKey: "AIzaSyCIjQ_BsF833NOTHYIWBrg8eVTY24kDWr0",
